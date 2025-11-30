@@ -1,1 +1,5 @@
-# Cybersecurity-certification-portfolio
+My name is Goran Solev. I am a disciplined and detail-oriented professional with a strong drive to transition into cybersecurity. I enjoy solving complex problems, mastering new technologies, and bringing structure to challenging environments – skills I currently apply in logistics and now focus on security challenges.
+
+In November 2025, I passed the ISC2 Certified in Cybersecurity (CC) exam on my first attempt and am progressing rapidly through the Google Cybersecurity Professional Certificate. I study consistently every week, complete hands-on labs on TryHackMe, and document my work on GitHub.
+
+I am passionate about protecting organisations from digital threats through proactive detection and response. My goal is to secure an entry-level SOC Analyst or Junior Cybersecurity Analyst role in the UK within the next 6–9 months. This certificate will equip me with the practical networking, Linux, SIEM, and incident-response skills employers require, enabling me to contribute effectively from Day 1 and build a long-term career in cybersecurity.
