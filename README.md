@@ -14,7 +14,7 @@ I am passionate about protecting organisations through proactive threat detectio
 | Credential                                      | Status                     | Date       |
 |-------------------------------------------------|----------------------------|------------|
 | (ISC)² Certified in Cybersecurity (CC)          | ✅ Completed               | Nov 2025   |
-| Google Cybersecurity Professional Certificate   | 📊 In Progress (Course 3/8) | Ongoing    | 2025–2026  |
+| Google Cybersecurity Professional Certificate   | 📊 In Progress (Course 3/9) | Ongoing    | 2025–2026  |
 | TryHackMe Pre-Security Path                     | ~60% complete              | Ongoing    |
 
 ## Key Hands-On Labs & Projects
