@@ -29,7 +29,7 @@ I am passionate about protecting organisations through proactive threat detectio
 - Frameworks: CIA triad, NIST CSF, MITRE ATT&CK (in progress)
 
 ## Contact
-- 📧 Email: [your-email@example.com](mailto:goran.solev@gmail.com)
+- 📧 Email: [goran.solev@gmail.com](mailto:goran.solev@gmail.com)
 - 🔗 LinkedIn: linkedin.com/in/goransolev
 - 🌐 TryHackMe: tryhackme.com/p/g0ran
 
