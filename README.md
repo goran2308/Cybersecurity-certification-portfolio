@@ -24,7 +24,7 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 3: Connect and Protect: Networks and Network Security ✅ [Certificate](course3-certificate.png)
   - Course 4: Tools of the Trade: Linux and SQL – In progress
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOURUSERNAME.png) <!-- Replace with your THM username -->
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/g0ran.png) <!-- Replace with your THM username -->
 
 ## Portfolio Projects & Labs
 | Project                          | Course / Platform                  | Status    | Proof                  |
@@ -42,8 +42,8 @@ I am passionate about protecting organisations through proactive threat detectio
 - Upcoming: Linux bash, SQL queries, Python automation
 
 ## Contact
-- 📧 Email: goran.solev(at)gmail.com
-- 🔗 LinkedIn: linkedin.com/in/goransolev
-- 🏆 TryHackMe: tryhackme.com/p/g0ran
+- 📧 **Email**: [solev.goran@gmail.com](mailto:solev.goran@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/goransolev](https://linkedin.com/in/goransolev)
+- 🏆 **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 
 **Last updated: January 2026** – Always learning, always documenting.
