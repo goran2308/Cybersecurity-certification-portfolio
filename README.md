@@ -42,7 +42,7 @@ I am passionate about protecting organisations through proactive threat detectio
 - Upcoming: Linux bash, SQL queries, Python automation
 
 ## Contact
-- 📧 Email: goran.solev.com
+- 📧 Email: goran.solev(at)gmail.com
 - 🔗 LinkedIn: linkedin.com/in/goransolev
 - 🏆 TryHackMe: tryhackme.com/p/g0ran
 
