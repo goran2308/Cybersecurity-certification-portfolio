@@ -34,7 +34,7 @@ I am passionate about protecting organisations through proactive threat detectio
 | Risk Assessment Simulation       | Play It Safe (Course 2)            | Complete  | Screenshot in repo     |
 | Network Security Lab             | Connect and Protect (Course 3)     | Complete  | Screenshot in repo     |
 | DNS & HTTP Enumeration           | TryHackMe                          | Complete  | Screenshots in repo    |
-| Linux & SQL Labs                 | Tools of the Trade (Course 4)      | Complete  | Screenshots in repoo   |
+| Linux & SQL Labs                 | Tools of the Trade (Course 4)      | Complete  | Screenshots in repo    |
 
 ## Skills Acquired So Far 🔧
 - Networking: DNS, HTTP/HTTPS, firewalls, VPNs, TLS 🔐
