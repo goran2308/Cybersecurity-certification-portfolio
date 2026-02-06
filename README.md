@@ -10,19 +10,20 @@ In November 2025 I passed the **(ISC)² Certified in Cybersecurity (CC)** exam o
 
 I am passionate about protecting organisations through proactive threat detection, log analysis, and incident response. My immediate goal is to secure an **entry-level SOC Analyst or Junior Cybersecurity Analyst role in the UK** within the next 6–9 months. This certificate will provide the practical networking, Linux, SIEM, and response skills employers demand, enabling me to deliver real value from Day 1 and grow into a trusted cybersecurity professional.
 
-## Certifications & Badges
-<img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="(ISC)² Certified in Cybersecurity (CC)" width="80" height="80">
+## Certifications & Badges 🎖️
+<img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="(ISC)² Certified in Cybersecurity (CC)" width="120" height="120">
 
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate">
 
 - **(ISC)² Certified in Cybersecurity (CC)** – Passed November 2025  
-  <img src="isc2-cc-certificate.png" alt="ISC2 Certificate" width="600"> <!-- Upload your certificate screenshot -->
+  <img src="isc2-cc-certificate.png" alt="ISC2 Certificate" width="600">
 
-- **Google Cybersecurity Professional Certificate** – 3/9 Courses Complete (January 2026)
-  - Course 1: Foundations of Cybersecurity ✅ [Certificate](course1-certificate.png)
-  - Course 2: Play It Safe: Manage Security Risks ✅ [Certificate](course2-certificate.png)
-  - Course 3: Connect and Protect: Networks and Network Security ✅ [Certificate](course3-certificate.png)
-  - Course 4: Tools of the Trade: Linux and SQL – In progress
+- **Google Cybersecurity Professional Certificate** – 4/9 Courses Complete (February 2026)  
+  - Course 1: Foundations of Cybersecurity ✅ [Certificate](course1-certificate.png)  
+  - Course 2: Play It Safe: Manage Security Risks ✅ [Certificate](course2-certificate.png)  
+  - Course 3: Connect and Protect: Networks and Network Security ✅ [Certificate](course3-certificate.png)  
+  - Course 4: Tools of the Trade: Linux and SQL ✅ [Certificate](course4-certificate.png)  
+  - Course 5: Assets, Threats, and Vulnerabilities – In progress
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/g0ran.png) <!-- Replace with your THM username -->
 
@@ -33,17 +34,17 @@ I am passionate about protecting organisations through proactive threat detectio
 | Risk Assessment Simulation       | Play It Safe (Course 2)            | Complete  | Screenshot in repo     |
 | Network Security Lab             | Connect and Protect (Course 3)     | Complete  | Screenshot in repo     |
 | DNS & HTTP Enumeration           | TryHackMe                          | Complete  | Screenshots in repo    |
-| Linux & SQL Labs                 | Tools of the Trade (Course 4)      | In progress | Coming soon            |
+| Linux & SQL Labs                 | Tools of the Trade (Course 4)      | Complete  | Screenshots in repoo   |
 
-## Skills Acquired So Far
-- Networking: DNS, HTTP/HTTPS, firewalls, VPNs, TLS
-- Risk Management: NIST frameworks, threat identification, mitigation planning
-- Tools: nslookup, dig, curl, Wireshark intro
-- Upcoming: Linux bash, SQL queries, Python automation
+## Skills Acquired So Far 🔧
+- Networking: DNS, HTTP/HTTPS, firewalls, VPNs, TLS 🔐
+- Risk Management: NIST frameworks, threat identification, mitigation planning ⚠️
+- Tools: nslookup, dig, curl, Wireshark intro, Linux bash, SQL queries 📡
+- Upcoming: Threat actor analysis, SIEM detection, Python automation 🐍
 
 ## Contact
 - 📧 **Email**: [solev.goran@gmail.com](mailto:solev.goran@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/goransolev](https://linkedin.com/in/goransolev)
 - 🏆 **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 
-**Last updated: January 2026** – Always learning, always documenting.
+**Last updated: February 2026** – Always learning, always documenting. 📈
