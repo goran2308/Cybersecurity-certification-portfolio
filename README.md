@@ -29,6 +29,8 @@ I am passionate about protecting organisations through proactive threat detectio
 - **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge – Goran Solev" width="200" height="200" style="border-radius: 8px;">
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=389886" style='border:none;'></iframe>
+
 ## Portfolio Projects & Labs
 | Project                          | Course / Platform                  | Status    | Proof                  |
 |----------------------------------|------------------------------------|-----------|------------------------|
