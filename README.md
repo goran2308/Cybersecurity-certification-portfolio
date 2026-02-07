@@ -8,7 +8,7 @@ My name is Goran Solev. I am a disciplined, analytical professional with a stron
 
 In November 2025 I passed the **(ISC)² Certified in Cybersecurity (CC)** exam on my first attempt and am actively progressing through the **Google Cybersecurity Professional Certificate**. I study consistently every week, complete hands-on labs on TryHackMe, and document all projects on GitHub.
 
-I am passionate about protecting organisations through proactive threat detection, log analysis, and incident response. My immediate goal is to secure an **entry-level SOC Analyst or Junior Cybersecurity Analyst role in the UK** within the next 6–9 months. This certificate will provide the practical networking, Linux, SIEM, and response skills employers demand, enabling me to deliver real value from Day 1 and grow into a trusted cybersecurity professional.
+I am passionate about protecting organisations through proactive threat detection, log analysis, and incident response. My immediate goal is to secure an **entry-level SOC Analyst or Junior Cybersecurity Analyst role in the UK** within the next 6–9 months. This certificate will equip me with the practical networking, Linux, SIEM, and response skills that employers demand, enabling me to deliver real value from day one and grow into a trusted cybersecurity professional.
 
 ## Certifications & Badges 🎖️
 <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="(ISC)² Certified in Cybersecurity (CC)" width="120" height="120">
@@ -35,8 +35,8 @@ I am passionate about protecting organisations through proactive threat detectio
 | Professional Statement           | Google Course 1                    | Complete  | In README              |
 | Risk Assessment Simulation       | Play It Safe (Course 2)            | Complete  | Screenshot in repo     |
 | Network Security Lab             | Connect and Protect (Course 3)     | Complete  | Screenshot in repo     |
-| DNS & HTTP Enumeration           | TryHackMe                          | Complete  | Screenshots in repo    |
-| Linux & SQL Labs                 | Tools of the Trade (Course 4)      | Complete  | Screenshots in repo    |
+| DNS & HTTP Enumeration           | TryHackMe                          | Complete  | Screenshot in repo     |
+| Linux & SQL Labs                 | Tools of the Trade (Course 4)      | Complete  | Screenshot in repo     |
 
 ## Skills Acquired So Far 🔧
 - Networking: DNS, HTTP/HTTPS, firewalls, VPNs, TLS 🔐
