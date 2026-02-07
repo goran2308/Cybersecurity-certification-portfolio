@@ -25,13 +25,7 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 4: Tools of the Trade: Linux and SQL ✅ [Certificate](course4-certificate.png)  
   - Course 5: Assets, Threats, and Vulnerabilities – In progress
 
-<img 
-  src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" 
-  alt="TryHackMe Badge – Goran Solev" 
-  width="120" 
-  height="120" 
-  style="border-radius: 8px;"
->
+<img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge – Goran Solev" width="120" height="120" style="border-radius: 8px;">
 
 - **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 
