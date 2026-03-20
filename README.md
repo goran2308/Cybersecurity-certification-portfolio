@@ -23,7 +23,7 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 2: Play It Safe: Manage Security Risks ✅ [Certificate](course2-certificate.png)
   - Course 3: Connect and Protect: Networks and Network Security ✅ [Certificate](course3-certificate.png)
   - Course 4: Tools of the Trade: Linux and SQL ✅ [Certificate](course4-certificate.png)
-  - **Course 5: Assets, Threats, and Vulnerabilities** ✅ [Certificate](course5-certificate.png)
+  - Course 5: Assets, Threats, and Vulnerabilities ✅ [Certificate](course5-certificate.png)
   - Course 6: Sound the Alarm: Detection and Response – Next
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge" width="120" height="120"> <!-- Replace YOURUSERNAME -->
@@ -49,4 +49,4 @@ I am passionate about protecting organisations through proactive threat detectio
 - 🔗 **LinkedIn**: [linkedin.com/in/goransolev](https://linkedin.com/in/goransolev)
 - 🏆 **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 
-**Last updated: February 2026** – Always learning, always documenting. 📈
+**Last updated: March 2026** – Always learning, always documenting. 📈
