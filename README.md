@@ -26,7 +26,7 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 5: Assets, Threats, and Vulnerabilities ✅ [Certificate](course5-certificate.png)
   - Course 6: Sound the Alarm: Detection and Response – Next
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge" width="120" height="120"> <!-- Replace YOURUSERNAME -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge" width="" height=""> <!-- Replace YOURUSERNAME -->
 
 ## Portfolio Projects & Labs 🛠️
 | Project                              | Course / Platform                        | Status      | Proof / Link |
