@@ -24,7 +24,8 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 3: Connect and Protect: Networks and Network Security ✅ [Certificate](course3-certificate.png)
   - Course 4: Tools of the Trade: Linux and SQL ✅ [Certificate](course4-certificate.png)
   - Course 5: Assets, Threats, and Vulnerabilities ✅ [Certificate](course5-certificate.png)
-  - Course 6: Sound the Alarm: Detection and Response – Next
+  - Course 6: Sound the Alarm: Detection and Response ✅
+  - Course 7: Automate Cybersecurity Tasks with Python – Next
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge" width="" height=""> <!-- Replace YOURUSERNAME -->
 
@@ -36,12 +37,14 @@ I am passionate about protecting organisations through proactive threat detectio
 | Network Security Lab                 | Connect and Protect (Course 3)           | Complete ✅ | [View](course3-certificate.png) |
 | Linux & SQL Labs                     | Tools of the Trade (Course 4)            | Complete ✅ | [View](course4-certificate.png) |
 | Threat Model & Vulnerability Assessment | Assets, Threats, and Vulnerabilities (Course 5) | Complete ✅ | [View](course5-certificate.png) |
+| Detection & Incident Response Playbooks   | Sound the Alarm (Course 6)                 | Complete ✅ | [View](course6-certificate.png) |
 
 ## Skills Acquired So Far 🔧
 - Networking, Firewalls & VPNs 🔐
 - Linux command-line & SQL for log analysis 🐧
 - Threat actor analysis & MITRE ATT&CK mapping ⚠️
-- Risk & vulnerability assessment
+- Risk & vulnerability assessment ⚠️
+- SIEM Log Analysis & Incident Response 📡
 - Upcoming: Detection & Response, Python automation
 
 ## Contact 📬
@@ -49,4 +52,4 @@ I am passionate about protecting organisations through proactive threat detectio
 - 🔗 **LinkedIn**: [linkedin.com/in/goransolev](https://linkedin.com/in/goransolev)
 - 🏆 **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 
-**Last updated: March 2026** – Always learning, always documenting. 📈
+**Last updated: May 2026** – Always learning, always documenting. 📈
