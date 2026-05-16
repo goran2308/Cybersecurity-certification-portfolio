@@ -24,7 +24,7 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 3: Connect and Protect: Networks and Network Security ✅ [Certificate](course3-certificate.png)
   - Course 4: Tools of the Trade: Linux and SQL ✅ [Certificate](course4-certificate.png)
   - Course 5: Assets, Threats, and Vulnerabilities ✅ [Certificate](course5-certificate.png)
-  - Course 6: Sound the Alarm: Detection and Response ✅
+  - Course 6: Sound the Alarm: Detection and Response ✅ [Certificate](course6-certificate.png)
   - Course 7: Automate Cybersecurity Tasks with Python – Next
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge" width="" height=""> <!-- Replace YOURUSERNAME -->
