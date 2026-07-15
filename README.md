@@ -25,7 +25,8 @@ I am passionate about protecting organisations through proactive threat detectio
   - Course 4: Tools of the Trade: Linux and SQL ✅ [Certificate](course4-certificate.png)
   - Course 5: Assets, Threats, and Vulnerabilities ✅ [Certificate](course5-certificate.png)
   - Course 6: Sound the Alarm: Detection and Response ✅ [Certificate](course6-certificate.png)
-  - Course 7: Automate Cybersecurity Tasks with Python – Next
+  - Course 7: Automate Cybersecurity Tasks with Python** ✅ [Certificate](course7-certificate.png)
+  - Course 8: Put It to Work: Prepare for Cybersecurity Jobs – Next
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0ran.png" alt="TryHackMe Badge" width="" height=""> <!-- Replace YOURUSERNAME -->
 
@@ -38,6 +39,7 @@ I am passionate about protecting organisations through proactive threat detectio
 | Linux & SQL Labs                     | Tools of the Trade (Course 4)            | Complete ✅ | [View](course4-certificate.png) |
 | Threat Model & Vulnerability Assessment | Assets, Threats, and Vulnerabilities (Course 5) | Complete ✅ | [View](course5-certificate.png) |
 | Detection & Incident Response Playbooks   | Sound the Alarm (Course 6)                 | Complete ✅ | [View](course6-certificate.png) |
+| Python Automation Scripts                 | Automate Cybersecurity Tasks (Course 7)    | Complete ✅ | [View](course7-certificate.png) |
 
 ## Skills Acquired So Far 🔧
 - Networking, Firewalls & VPNs 🔐
@@ -45,11 +47,11 @@ I am passionate about protecting organisations through proactive threat detectio
 - Threat actor analysis & MITRE ATT&CK mapping ⚠️
 - Risk & vulnerability assessment ⚠️
 - SIEM Log Analysis & Incident Response 📡
-- Upcoming: Detection & Response, Python automation
+- Python Scripting & Automation 🐍
 
 ## Contact 📬
 - 📧 **Email**: [solev.goran@gmail.com](mailto:solev.goran@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/goransolev](https://linkedin.com/in/goransolev)
 - 🏆 **TryHackMe**: [tryhackme.com/p/g0ran](https://tryhackme.com/p/g0ran)
 
-**Last updated: May 2026** – Always learning, always documenting. 📈
+**Last updated: July 2026** – Always learning, always documenting. 📈
